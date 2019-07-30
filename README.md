@@ -86,7 +86,7 @@
 
 - 5.6 [课程表](https://github.com/SharonXuran/Leetcode_Cplusplus/blob/master/5_Binary%20Tree%20%26%20Graph/5_6.%20%5Bcode%5D%20%E8%AF%BE%E7%A8%8B%E8%A1%A8.md)
 
-### 6. 二叉搜索与二叉搜索树
+### 6. 二分查找与二叉搜索树
 
 - 6.1 [二分查找和二叉树搜索](https://github.com/SharonXuran/Leetcode_Cplusplus/blob/master/6_Binary%20Search%20%26%20Binary%20Search%20Tree/6_1.%20%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E5%92%8C%E4%BA%8C%E5%8F%89%E6%A0%91%E6%90%9C%E7%B4%A2.md)
 
