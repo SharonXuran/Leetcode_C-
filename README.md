@@ -1,5 +1,5 @@
 
-@SharonXuran 更新于2019/7/30
+@SharonXuran 更新于2019/8/3
 
 
 # Leetcode_C++
@@ -99,6 +99,10 @@
 - 6.5 [二叉搜索树中的插入操作](https://github.com/SharonXuran/Leetcode_Cplusplus/blob/master/6_Binary%20Search%20%26%20Binary%20Search%20Tree/6_5.%20%5Bcode%5D%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E6%8F%92%E5%85%A5%E6%93%8D%E4%BD%9C.md)
 
 - 6.6 [二叉搜索树中的第K小元素](https://github.com/SharonXuran/Leetcode_Cplusplus/blob/master/6_Binary%20Search%20%26%20Binary%20Search%20Tree/6_6.%20%5Bcode%5D%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E7%AC%ACK%E5%B0%8F%E5%85%83%E7%B4%A0.md)
+
+### 7. 哈希表与字符串
+
+- 7.2 [最长回文串](https://github.com/SharonXuran/Leetcode_Cplusplus/blob/master/7_HashTable%26String/7_2.%20%5Bcode%5D%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E4%B8%B2.md)
 
 
 
